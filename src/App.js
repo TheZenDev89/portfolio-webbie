@@ -1,5 +1,6 @@
 import React from "react";
 import Particles from "react-particles-js";
+
 import Nav from "./components/Nav.js";
 import MyName from "./components/MyName.js";
 import AboutMe from "./components/AboutMe.js";
