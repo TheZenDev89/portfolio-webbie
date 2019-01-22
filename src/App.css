@@ -1,0 +1,58 @@
+#about-me-card {
+  background-color: #a6ded5;
+}
+
+/* #nav-bar {
+    background-color: #F0C48F;
+} */
+
+#nav-bar {
+  font-size: calc(14px + (50 - 14) * ((100vw - 300px) / (1600 - 300)));
+  line-height: calc(1.3em + (1.5 - 1.2) * ((100vw - 300px) / (1600 - 300)));
+}
+
+.particles {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: -1;
+}
+
+.bg-dwyl-teal {
+  font-family: "Roboto", sans-serif;
+  font-size: 1rem;
+  background-color: #f0c48f;
+}
+
+h2 {
+  font-family: "Montserrat", sans-serif;
+  /* font-size: 5rem; */
+  font-size: calc(14px + (100 - 14) * ((100vw - 300px) / (1600 - 300)));
+  line-height: calc(1.3em + (1.5 - 1.2) * ((100vw - 300px) / (1600 - 300)));
+  text-align: center;
+  color: white;
+}
+
+h3 {
+  font-family: "Montserrat", sans-serif;
+  /* font-size: 2rem; */
+  font-size: calc(14px + (50 - 14) * ((100vw - 300px) / (1600 - 300)));
+  line-height: calc(1.3em + (1.5 - 1.2) * ((100vw - 300px) / (1600 - 300)));
+  text-align: center;
+  color: white;
+}
+
+p {
+  font-family: "Roboto", sans-serif;
+  /* font-size: 1.2rem; */
+  font-size: calc(14px + (26 - 14) * ((100vw - 300px) / (1600 - 300)));
+  line-height: calc(1.3em + (1.5 - 1.2) * ((100vw - 300px) / (1600 - 300)));
+  text-align: center;
+  color: white;
+}
+
+hr {
+  border: 0.5px solid white;
+}
