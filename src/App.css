@@ -6,10 +6,10 @@
     background-color: #F0C48F;
 } */
 
-#nav-bar {
+/* #nav-bar {
   font-size: calc(14px + (50 - 14) * ((100vw - 300px) / (1600 - 300)));
   line-height: calc(1.3em + (1.5 - 1.2) * ((100vw - 300px) / (1600 - 300)));
-}
+} */
 
 .particles {
   position: fixed;
